@@ -1,0 +1,9 @@
+gensim==3.8.3
+matplotlib>=3.4.1
+numpy==1.20.2
+pandas>=1.2.3
+pyLDAvis>=3.3.1
+scikit-learn>=0.24.1
+scipy>=1.6.2
+stanza>=1.2
+tqdm>=4.59.0
